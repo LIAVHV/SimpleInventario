@@ -9,7 +9,7 @@ Este sistema cuenta con:
 + Reporte de Existencias
 + Reporte de Kardex por producto
 
-Visual Studio 2022 Community Edition
+Este programa se compilo y ejecuto con Visual Studio 2022 Community Edition
 
 Desarrollo de pruebas con LocalDb 2019, al ejecutar el projecto se crea la base de datos DBSimpleInventario
 
