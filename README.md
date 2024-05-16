@@ -2,12 +2,12 @@
 Sistema de inventario simple desarrollado con NetFramework 4.7.2
 
 Este sistema cuenta con: 
-+ Catalogo de Unidades de Medida
-+ Registro de productos
-+ Entradas
-+ Salidas
++ Catalogo de unidades de medida
++ Catalogo de productos o servicio
++ Entradas de producto o servicio
++ Salidas de producto o servicio
 + Reporte de Existencias
-+ Reporte de Kardex por producto
++ Reporte de Movimientos (kardex) por producto
 
 Este programa se compilo y ejecuto con Visual Studio 2022 Community Edition
 
