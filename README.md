@@ -1,5 +1,5 @@
 # SimpleInventario
-Sistema de inventario simple desarrollado con NetFramework 4.7.2
+Sistema de inventario simple desarrollado con WinForms, NetFramework 4.7.2
 
 Este sistema cuenta con: 
 + Catalogo de unidades de medida
