@@ -9,11 +9,16 @@ Este sistema cuenta con:
 + Reporte de Existencias
 + Reporte de Movimientos (kardex) por producto
 
+Instalar LocalDb desde SQL Server Express 2016-2019
+
+[Instalar LocalDb](https://learn.microsoft.com/es-es/sql/database-engine/configure-windows/sql-server-express-localdb?view=sql-server-ver16#installation-media)
+
+Descargar e Instalar Extension Microsoft Rdlc Report Designer Para Visual Studio 2022 
+
+[Microsoft Rdlc Report Designer 2022](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftRdlcReportDesignerforVisualStudio2022)
+
 Desarrollo de pruebas con LocalDb 2019, al ejecutar el projecto se crea la base de datos DBSimpleInventario
 
-Se puede instalar LocalDb desde SQL Server Express 2016-2019
-
-https://learn.microsoft.com/es-es/sql/database-engine/configure-windows/sql-server-express-localdb?view=sql-server-ver16#installation-media
 
 Este programa se compilo y ejecuto con Visual Studio 2022 Community Edition.
 
