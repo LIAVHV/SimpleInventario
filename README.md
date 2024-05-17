@@ -17,10 +17,10 @@ https://learn.microsoft.com/es-es/sql/database-engine/configure-windows/sql-serv
 
 Este programa se compilo y ejecuto con Visual Studio 2022 Community Edition.
 
-Al abrir el proyecto instalar los paquetes desde menu
+Si no se instalan los paquetes automaticamente reinstalarlos desde menu
 Herramientas>Administrador de paquetes NuGet>Consola del administrador de paquetes
 
-Se mostrara un mensaje "Faltan algunos paquetes NuGet", dar clic en el boton "Restaurar"
+Update-Package -Reinstall
 
 
 Este proyecto utiliza:
